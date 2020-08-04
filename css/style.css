@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.title{
+    background-color: #b2ebf2;
+    padding-top:  100px;
+}
+.title-text{
+    font-family: 'Sacramento', cursive;
+    font-size: 45px;
+}
+hr{
+    margin: 0;
+    border: 0;
+    height: 5px;
+    background-color: #ff5722;
+}
+h3{
+    font-family: 'Antic Slab', serif;
+    margin-top: 10px;
+}
+.web{
+    text-decoration: overline;
+}
+.cloud-size{
+    width: 250px;
+    height: 150px;
+}
+.cloud{
+    position: absolute;
+    right: 23%;
+    top: 50px;
+}
+.cloud_down{
+    position: absolute;
+    bottom: 400px;
+}
+.montain{
+    width: 50%;
+    height: 70%;
+}
+.middle{
+    background-color: #b2ebf2;
+    margin: 0;
+}
+.profil{
+    padding-top: 20px;
+    width: 20%;
+    height: 30%;
+    border-radius: 100%;
+}
+.gif{
+    width: 30%;
+    height: 20%;
+    background-color: #00bcd4;
+    border-radius: 100%;
+}
+.middle_down{
+    border: 0;
+    margin: 0;
+    background-color: #b2ebf2;
+}
+.skill{
+    margin-top: 0px;
+    border: 0;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.bottom{
+    background-color: #00bcd4;
+}
+.Contact{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.social{
+    font-size: 16px;
+}
